@@ -4,10 +4,45 @@
 
  | Repo | Description |
 | --- | --- |
-| [interwiew] | A curated awesome list of lists of interview questions. Feel free to contribute! |
-| git diff | Show file differences that haven't been staged |
+| [interview] | A curated awesome list of lists of interview questions. Feel free to contribute! |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [C] | A curated list of awesome C frameworks, libraries, resources and other shiny things. Inspired by all the other awesome-...
+projects out there. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+| [Privacy] | A curated list of services and alternatives that respect your privacy because PRIVACY MATTERS. |
+
+
 
 
 
 [interwiew]: https://github.com/DopplerHQ/awesome-interview-questions
-
+[Privacy]: https://github.com/pluja/awesome-privacy
