@@ -24,7 +24,7 @@
 
 
 
-[interwiew]: https://github.com/DopplerHQ/awesome-interview-questions
+[interview]: https://github.com/DopplerHQ/awesome-interview-questions
 [Privacy]: https://github.com/pluja/awesome-privacy
 [C]: https://github.com/oz123/awesome-c
 [Competitive Programming]: https://github.com/lnishan/awesome-competitive-programming
